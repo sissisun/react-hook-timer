@@ -1,0 +1,24 @@
+{
+  "name": "react-hook-timer",
+  "version": "1.0.0",
+  "description": "react hook timer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sissisun/react-hook-timer.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "timer"
+  ],
+  "author": "sissi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sissisun/react-hook-timer/issues"
+  },
+  "homepage": "https://github.com/sissisun/react-hook-timer#readme"
+}
